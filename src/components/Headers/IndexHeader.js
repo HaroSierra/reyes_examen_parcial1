@@ -37,13 +37,13 @@ function IndexHeader() {
             <img
               alt="..."
               className="n-logo"
-              src={require("assets/img/now-logo.png")}
+              src={require("assets/img/foto.jpg")}
             ></img>
-            <h1 className="h1-seo">Now UI Kit.</h1>
-            <h3>A beautiful Bootstrap 4 UI kit. Yours free.</h3>
+            <h1 className="h1-seo">UNIVERSIDAD TECNOLÓGICA DE DURANGO</h1>
+            <h3>HARO SIERRA JOCELYNE</h3>
           </div>
           <h6 className="category category-absolute">
-            Designed by{" "}
+            Gestión del proceso de SoftWare{""}
             <a href="http://invisionapp.com/?ref=creativetim" target="_blank">
               <img
                 alt="..."
@@ -51,7 +51,7 @@ function IndexHeader() {
                 src={require("assets/img/invision-white-slim.png")}
               ></img>
             </a>
-            . Coded by{" "}
+            . Parcial I{" "}
             <a
               href="https://www.creative-tim.com?ref=nukr-index-header"
               target="_blank"
